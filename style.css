@@ -1,0 +1,52 @@
+body {
+    display: block;
+    min-height: 100vh;
+    background-image: radial-gradient( circle farthest-corner at 22.4% 21.7%, rgba(4,189,228,1) 0%, rgba(2,83,185,1) 100.2% );
+}
+
+@font-face {
+    font-family: Fortnite;
+    src: url(fortnite.otf);
+}
+
+.head {
+    font-family: Fortnite;
+    margin-bottom: 20px;
+    font-size: 48px;
+}
+
+#lifetime {
+    width: 100%;
+    padding: 5px;
+    width: 100%;
+    font-size: 30px;
+    display: inline-block;
+    font-family: Fortnite;    
+}
+
+#solos {
+    width: 100%;
+    padding: 5px;
+    width: 100%;
+    font-size: 30px;
+    display: inline-block;
+    font-family: Fortnite;    
+}
+
+#duos {
+    width: 100%;
+    padding: 5px;
+    width: 100%;
+    font-size: 30px;
+    display: inline-block;
+    font-family: Fortnite;    
+}
+
+#squads {
+    width: 100%;
+    padding: 5px;
+    width: 100%;
+    font-size: 30px;
+    display: inline-block;
+    font-family: Fortnite;    
+}
